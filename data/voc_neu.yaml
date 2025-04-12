@@ -1,0 +1,8 @@
+
+
+train: 训练集
+val: 验证集
+test: 测试集
+
+nc: 6   # number of classes
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']  # class names
